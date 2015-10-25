@@ -12,7 +12,7 @@
 		FFE9CE3F1BD97DE200AC60C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFE9CE3D1BD97DE200AC60C3 /* Main.storyboard */; };
 		FFE9CE411BD97DE200AC60C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFE9CE401BD97DE200AC60C3 /* Assets.xcassets */; };
 		FFE9CE441BD97DE200AC60C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFE9CE421BD97DE200AC60C3 /* LaunchScreen.storyboard */; };
-		FFE9CE521BD97E0100AC60C3 /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFE9CE511BD97E0100AC60C3 /* NotificationCenter.framework */; settings = {ASSET_TAGS = (); }; };
+		FFE9CE521BD97E0100AC60C3 /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFE9CE511BD97E0100AC60C3 /* NotificationCenter.framework */; };
 		FFE9CE551BD97E0100AC60C3 /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE9CE541BD97E0100AC60C3 /* TodayViewController.swift */; };
 		FFE9CE581BD97E0100AC60C3 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFE9CE561BD97E0100AC60C3 /* MainInterface.storyboard */; };
 		FFE9CE5C1BD97E0100AC60C3 /* AppOfTheWeekExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = FFE9CE4F1BD97E0100AC60C3 /* AppOfTheWeekExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };

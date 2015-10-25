@@ -18,7 +18,7 @@ class TodayViewController: UIViewController, NCWidgetProviding, WKNavigationDele
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        preferredContentSize = CGSizeMake(1,10)
+        preferredContentSize = CGSizeMake(1,CGFloat(banner_height/2))
         
         webView.navigationDelegate = self
         webView.opaque = false;
